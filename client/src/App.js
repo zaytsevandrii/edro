@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import {BrowserRouter, Route, Routes, useLocation} from 'react-router-dom'
+import Item from './components/Item';
 import CheckOut from './scenes/checkout/CheckOut';
 import Confirmation from './scenes/checkout/Confirmation';
 import CartMenu from './scenes/global/CartMenu';
