@@ -148,9 +148,9 @@ const ItemDetails = () => {
             <Item key={`${item.name}-${i}`} item={item} />
           ))}
         </Box>
-      </Box>
+      </Box> 
     </Box>
   );
 };
 
-export default ItemDetails;
+export default ItemDetails; 2-52
