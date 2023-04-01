@@ -153,4 +153,4 @@ const ItemDetails = () => {
   );
 };
 
-export default ItemDetails; 2-52
+export default ItemDetails;
